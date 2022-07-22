@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rest-countries-FM/static/css/main.0fdfd6b6.css",
-    "main.js": "/rest-countries-FM/static/js/main.43b75f2f.js",
+    "main.js": "/rest-countries-FM/static/js/main.b480f340.js",
     "static/js/787.1680a198.chunk.js": "/rest-countries-FM/static/js/787.1680a198.chunk.js",
     "index.html": "/rest-countries-FM/index.html",
     "main.0fdfd6b6.css.map": "/rest-countries-FM/static/css/main.0fdfd6b6.css.map",
-    "main.43b75f2f.js.map": "/rest-countries-FM/static/js/main.43b75f2f.js.map",
+    "main.b480f340.js.map": "/rest-countries-FM/static/js/main.b480f340.js.map",
     "787.1680a198.chunk.js.map": "/rest-countries-FM/static/js/787.1680a198.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fdfd6b6.css",
-    "static/js/main.43b75f2f.js"
+    "static/js/main.b480f340.js"
   ]
 }
