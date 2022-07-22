@@ -1,0 +1,39 @@
+.country{
+	background-color: #2B3844;
+	transition: .3s all;
+	.flag-container{
+		height: 200px;
+		overflow: hidden;
+		.flag{
+			height: 100%;
+			width: 100%;
+			margin-left: auto;
+			margin-right: auto;
+			display: block;
+			object-fit: contain;
+		}
+	}
+	.details{
+		padding: 1.7rem 1.3rem;
+
+		.country-name{
+			margin-bottom: 1rem;
+		}
+
+		.population, .region{
+			margin-bottom: 0.6rem;
+		}
+
+		.capital{
+			margin-bottom: 2.5rem;
+		}
+
+		.population, .region, .capital{
+
+		}
+		
+	}
+	&:hover{
+		transform: scale(1.05);
+	}
+}

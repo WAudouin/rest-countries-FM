@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#root {
+	width: 100vw;
+	height: 100vh;
+}
+
+.Home{
+	width: 100%;
+	
+	.main{
+		min-height: 86vh;
+		padding: 2rem 5rem;
+		background-color: #202C36;
+		display: flex;
+		flex-direction: column;
+
+		.filters{
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+			justify-content: space-between;
+			margin-bottom: 3rem;
+
+			.search-bar{
+				width: 35%;
+				height: 3rem;
+
+				#search-country{
+					width: 92%;
+					height: 100%;
+					padding-left: 8%;
+				}
+			}
+		}
+	}
+}
