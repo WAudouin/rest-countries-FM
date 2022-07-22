@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/rest-countries-FM/static/css/main.4195fa48.css",
-    "main.js": "/rest-countries-FM/static/js/main.43fabbf2.js",
+    "main.css": "/rest-countries-FM/static/css/main.0fdfd6b6.css",
+    "main.js": "/rest-countries-FM/static/js/main.43b75f2f.js",
     "static/js/787.1680a198.chunk.js": "/rest-countries-FM/static/js/787.1680a198.chunk.js",
-    "static/media/banana.jpg": "/rest-countries-FM/static/media/banana.701fefc5ae529066c780.jpg",
     "index.html": "/rest-countries-FM/index.html",
-    "main.4195fa48.css.map": "/rest-countries-FM/static/css/main.4195fa48.css.map",
-    "main.43fabbf2.js.map": "/rest-countries-FM/static/js/main.43fabbf2.js.map",
+    "main.0fdfd6b6.css.map": "/rest-countries-FM/static/css/main.0fdfd6b6.css.map",
+    "main.43b75f2f.js.map": "/rest-countries-FM/static/js/main.43b75f2f.js.map",
     "787.1680a198.chunk.js.map": "/rest-countries-FM/static/js/787.1680a198.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4195fa48.css",
-    "static/js/main.43fabbf2.js"
+    "static/css/main.0fdfd6b6.css",
+    "static/js/main.43b75f2f.js"
   ]
 }
