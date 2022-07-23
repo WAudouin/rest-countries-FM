@@ -12,7 +12,7 @@ const CountryCard = ({country}) => {
 	}
 	
 	return (
-		<article className="country" onClick={() => navigate(`/${country.cca2}`)}>
+		<article className="country" onClick={() => navigate(`/country/${country.cca2}`)}>
 			<div className="flag-container">
 				<img src={country.flags.png} alt="" className="flag"/>	
 			</div>

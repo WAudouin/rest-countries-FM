@@ -67,7 +67,7 @@ const Details = () => {
 							</div>
 							<div className="border-countries">
 							Border countries: {currentCountry.borders && currentCountry.borders.map((cty) => {
-								return <Link to={`/${cty}`}>{`${cty}`}</Link>
+								return <Link to={`/country/${cty}`}>{`${cty}`}</Link>
 							})}
 							{!currentCountry.borders && 
 								<p>None</p>
